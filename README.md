@@ -52,7 +52,7 @@ up, down, left, right.
 - 🟥 Red: goal node
 
 ### Demo
-//![A* Demo](./Assets/Dem.gif)
+![A* Demo](./Assets/Demo.gif)
 
 ---
 
