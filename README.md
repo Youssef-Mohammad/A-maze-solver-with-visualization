@@ -62,4 +62,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Youssef-Mohammad/A-maze-solver-with-visualization.git
-cd astar-maze-solver
+cd A-maze-solver-with-visualization
